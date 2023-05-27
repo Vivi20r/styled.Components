@@ -28,7 +28,8 @@ const Account = () => {
           <Saldo>
             <Detalle>$</Detalle> 8,621.50
           </Saldo>
-        ) : null}
+        ) : null}choco install yarn
+
       </div>
 
       <Btn onClick={toggleHandler}>
